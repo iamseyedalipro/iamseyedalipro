@@ -38,3 +38,8 @@ A Python class designed to simplify the installation and updating process of the
 - [GitHub](https://github.com/iamseyedalipro)
 
 🤝 Feel free to reach out if you're interested in collaborating on projects or if you have opportunities that align with my skills and experience!
+
+## Download My Resume 📄
+[Download Resume](https://github.com/iamseyedalipro/iamseyedalipro/blob/main/resume.pdf) 📥
+
+
